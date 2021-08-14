@@ -1,5 +1,7 @@
 # Cities API
 
+projecto api Rest para procurar cidades na brasil,  desenvolvdo durante bootcamp junto ao professor Andres Lugo Gomes.
+
 ## Requirements
 
 * Linux
@@ -113,3 +115,6 @@ select earth_distance(
 ```shell script
 wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml
 ```
+
+Lisber Victores Pompa  
+www.linkedin.com/in/lisbervictores
